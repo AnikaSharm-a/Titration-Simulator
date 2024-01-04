@@ -1,0 +1,5 @@
+1.0 M HCl and Unknown NaOH
+HCl(aq) + NaOH(aq) -> NaCl(aq) + H2O(l)
+
+1.0 M NaOH and Unknown HCl
+NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)
